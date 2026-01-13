@@ -1,0 +1,18 @@
+{
+    "id": "snakething",
+    "requires": [],
+    "label": "snakething",
+    "version": "0.10.12",
+    "description": "snakething",
+    "author": "shmank",
+    "platforms": ["windows"],
+    "homepage": "",
+    "repository": "",
+    "template": "full",
+    "tags": ["utility"],
+    "requiredVersions": {
+        "server": ">=0.11.0",
+        "client": ">=0.11.0"
+    },
+    "updateUrl": ""
+}
